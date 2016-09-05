@@ -1,5 +1,5 @@
 import pprint
-bibleText = open('/Users/Ryan/Downloads/bible.txt')
+bibleText = open('./bible.txt')
 bibleLetters = bibleText.read()
 count = {}
 
